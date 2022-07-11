@@ -1,0 +1,14 @@
+{
+  "name": "Feedback-Application",
+  "version": "1.0.0",
+  "description": "React Feedback Application",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node server.js"
+  },
+  "author": "Raj",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
